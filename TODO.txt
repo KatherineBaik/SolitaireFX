@@ -1,0 +1,1 @@
+Make card sprites look nicer
