@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        ".\\javafx-sdk-21.0.7\\lib\\javafx.base.jar",
+        ".\\javafx-sdk-21.0.7\\lib\\javafx.graphics.jar",
+        ".\\javafx-sdk-21.0.7\\lib\\javafx.controls.jar"
+    ]
+}
